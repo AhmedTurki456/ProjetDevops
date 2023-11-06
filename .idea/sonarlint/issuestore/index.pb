@@ -25,3 +25,15 @@ f
 6src/main/java/tn/esprit/rh/achat/AchatApplication.java,b\4\b413c620a5bd35e10018a5ab6033974f72b71423
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+{
+Ksrc/main/java/tn/esprit/rh/achat/controllers/FournisseurRestController.java,0\2\02e3780e69d4306834f9cffc081b8419a3110ac4
+d
+4src/main/java/tn/esprit/rh/achat/entities/Stock.java,a\5\a5c49a5cefc42bc70e4059187de7e58eb40bff0f
+j
+:src/main/java/tn/esprit/rh/achat/entities/Fournisseur.java,8\4\841f85303f57a2304f12a5bc2490499d1da744be
+x
+Hsrc/main/java/tn/esprit/rh/achat/repositories/FournisseurRepository.java,e\8\e84fb4f6df39fd9b1e67a9ff92c68dd1519cd1d1
+f
+6src/Test/java/tn/spring/esprit/FounriseurImplTest.java,b\9\b9215a143b72de625f8b9f663a152d64e0f62c3f
+f
+6src/Test/java/tn/spring/esprit/FourniseurImplMock.java,3\1\3194ba3f3a736b46a22154b23f08900bfd2c743e
