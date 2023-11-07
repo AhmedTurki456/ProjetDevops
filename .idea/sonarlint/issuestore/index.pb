@@ -37,3 +37,8 @@ f
 6src/Test/java/tn/spring/esprit/FounriseurImplTest.java,b\9\b9215a143b72de625f8b9f663a152d64e0f62c3f
 f
 6src/Test/java/tn/spring/esprit/FourniseurImplMock.java,3\1\3194ba3f3a736b46a22154b23f08900bfd2c743e
+:
+
+Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
