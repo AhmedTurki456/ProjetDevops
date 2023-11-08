@@ -10,13 +10,13 @@ services:
       - MYSQL_USER:root
       - MYSQL_PASSWORD:root
       - MYSQL_ROOT_PASSWORD=root
-      - MYSQL_DATABASE=mariemdb
+      - MYSQL_DATABASE=achatdb
     volumes:
       - db_vol:/var/lib/mysqldb
 
   departement_app:
     build: ./
-    image: mariemlabbouz-5bi5
+    image: mariemlabbouz
     restart: unless-stopped
     ports:
       - 8089:8089
