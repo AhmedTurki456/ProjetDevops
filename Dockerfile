@@ -5,7 +5,7 @@ FROM openjdk:8-jre
 ADD target/achat-1.0.jar achat-1.0.jar
 
 # Exposez le port sur lequel votre application Java écoutera (utilisez un port disponible qui ne soit pas en conflit avec d'autres services)
-EXPOSE 8089
+EXPOSE 8090
 
 # Définissez la commande d'entrée pour exécuter votre application Java (utilisez le nom du JAR correct)
 ENTRYPOINT ["java", "-jar", "/achat-1.0.jar "]

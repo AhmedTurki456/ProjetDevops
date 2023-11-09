@@ -25,3 +25,14 @@ f
 6src/main/java/tn/esprit/rh/achat/AchatApplication.java,b\4\b413c620a5bd35e10018a5ab6033974f72b71423
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+h
+8src/Test/java/tn/spring/esprit/StockServiceImplMock.java,7\0\70384bd1b833bf7b9f0631808ef5961f0b13d9dd
+h
+8src/Test/java/tn/spring/esprit/StockServiceImplTest.java,4\9\492e7b5ec0c087c8a9a16dfa97a823a032c48f49
+u
+Esrc/main/java/tn/esprit/rh/achat/controllers/StockRestController.java,2\2\2217e1a178510d28a7fc03ee4626b1821fa022bd
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
+:
+
+Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
