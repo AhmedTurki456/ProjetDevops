@@ -105,3 +105,5 @@ C
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+~
+Nsrc/test/java/tn/esprit/rh/achat/services/CategorieProduitServiceImplTest.java,a\a\aaf6f906237ff3ae751e9a86400f5f5cae350021
