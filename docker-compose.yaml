@@ -18,8 +18,11 @@ services:
       - "8089:8089"
     environment:
       SPRING_DATASOURCE_URL: jdbc:mysql://mysqldb:3306/achatdb?createDatabaseIfNotExist=true
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: root
+      SPRING_JPA_SHOW-sql: true
     networks:
       - network
-    image: devops_back_project
+    image: riahinourelhouda/devops_back_project:latest
 networks:
   network:
